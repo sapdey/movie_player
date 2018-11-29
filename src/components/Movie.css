@@ -1,0 +1,14 @@
+.movieItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+}
+.inner-item{
+    width: 232px;
+}
+.poster {
+    width: 232px;
+    height: 300px;
+}

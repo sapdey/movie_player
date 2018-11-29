@@ -1,0 +1,16 @@
+.youtube-player{
+    display: flex;
+    margin: 10px 20px;
+}
+.right-section {
+    margin-left: 20px;
+}
+.movie-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.movie-language{
+    color: #800000;
+    margin: 10px 0;
+    display: inline-block;
+}
